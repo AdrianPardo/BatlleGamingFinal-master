@@ -5,4 +5,5 @@
     <color name="colorWorkday">#ffcb63</color>
     <color name="colorDate">#ffbc38</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="background_color">#ffffff</color>
 </resources>
